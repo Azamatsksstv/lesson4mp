@@ -19,8 +19,8 @@
     <Button
         android:id="@+id/button"
         android:layout_width="71dp"
-        android:layout_height="39dp"
-        android:text="Button"
+        android:layout_height="48dp"
+        android:text="@string/roll"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
